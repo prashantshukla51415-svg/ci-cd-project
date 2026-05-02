@@ -15,4 +15,4 @@ This project demonstrates a CI/CD pipeline using GitHub Actions, Tekton, and Ope
 - YAML
 
 ## Author
-Your Name
+Prashant Shukla
